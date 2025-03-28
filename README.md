@@ -1,6 +1,6 @@
 Чекер дропа Corn (https://usecorn.com/app?action=airdrop)
 
-Приватные ключи с прокси 1к1,
+Приватные ключи с прокси 1к1 (формат прокси user:pass@ip:port)
 
 ### Установка
 
