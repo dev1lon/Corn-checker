@@ -13,7 +13,6 @@ private_keys = utils.read_file(os.path.join(BASE_DIR, "private_keys.txt"))
 proxies = utils.read_file(os.path.join(BASE_DIR, "proxies.txt"))
 
 
-
 async def main():
     if len(private_keys) != len(proxies):
         raise Exception('Адреса не соответствуют количеству прокси')
